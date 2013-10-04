@@ -1,0 +1,15 @@
+{
+  "name": "assert",
+  "version": "0.1.0",
+  "main": [
+    "lib/main.js"
+  ],
+  "ignore": [
+    "*",
+    "!bower.json",
+    "!lib/main.js"
+  ],
+  "dependencies": {
+    "requirejs": "*"
+  }
+}
