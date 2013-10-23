@@ -13,8 +13,8 @@ module.exports = function (grunt) {
     clean:    require('./config/clean'),
     connect:  require('./config/connect'),
     jshint:   require('./config/jshint'),
-    less:     require('./config/less'),
     karma:    require('./config/karma'),
+    less:     require('./config/less'),
     open:     require('./config/open'),
     watch:    require('./config/watch')
   })

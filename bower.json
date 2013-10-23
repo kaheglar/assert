@@ -1,5 +1,6 @@
 {
   "name": "assert",
+  "description": "Design by contract style assertion function.",
   "version": "0.1.0",
   "main": [
     "lib/main.js"
